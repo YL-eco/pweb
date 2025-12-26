@@ -1,0 +1,17 @@
+
+/* Minimal, readable tweaks */
+body { line-height: 1.6; }
+.site-title { font-weight: 700; }
+nav a { margin-right: 12px; text-decoration: none; }
+.small { font-size: 0.9rem; color: #666; }
+.card { border: 1px solid #eaeaea; border-radius: 12px; padding: 1rem; margin: 1rem 0; }
+ul.clean { list-style: none; padding-left: 0; }
+ul.clean li { margin: 0.25rem 0; }
+hr.soft { border: 0; border-top: 1px solid #eee; margin: 1.5rem 0; }
+footer { margin-top: 2rem; font-size: 0.9rem; color: #666; }
+header .nav { margin-top: 0.5rem; }
+header .nav a { margin-right: 10px; }
+img.avatar { border-radius: 50%; max-width: 140px; }
+@media (max-width: 600px) {
+  img.avatar { max-width: 100px; }
+}
