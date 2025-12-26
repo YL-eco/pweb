@@ -1,0 +1,30 @@
+title: "Yifei Luo"
+description: "Hi and welcome! I use economic tools to study politics, historical events, social norms, religion, and organizational forms. My work spans both empirical settings and theoretical models."
+url: "https://yifeiluo.github.io"
+baseurl: ""
+theme: jekyll-theme-minimal
+
+# Optional: use the remote theme variant
+# remote_theme: pages-themes/minimal@v0.2.0
+# plugins:
+#   - jekyll-remote-theme
+
+# Customization
+logo: /assets/img/profile.jpg
+show_downloads: false
+
+# Author info (for indexing and metadata)
+author:
+  name: "Yifei Luo"
+  email: "luoyifei426@gmail.com"
+  ssrn: "https://ssrn.com/author=6801941"
+
+# SEO / search engine metadata
+seo:
+  type: "Person"
+  name: "Yifei Luo"
+  sameAs:
+    - "https://ssrn.com/author=6801941"
+
+# Include custom head HTML
+includes_dir: _includes
